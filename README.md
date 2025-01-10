@@ -1,6 +1,6 @@
-# To-Do List 
+# To-Do-List 
 
-A simple and efficient To-Do List application built using HTML, CSS, and JavaScript. Perfect for managing tasks and staying organized!
+A simple and efficient To-Do-List application built using HTML, CSS, and JavaScript. Perfect for managing tasks and staying organized!
 
 ## Features
 
@@ -17,4 +17,4 @@ A simple and efficient To-Do List application built using HTML, CSS, and JavaScr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sudeep-Bhandari/To-Do list.git
+   git clone https://github.com/Sudeep-Bhandari/To-Do-List.git
